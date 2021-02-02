@@ -1,0 +1,15 @@
+Package: MUPPITS1Modules
+Title: ICAC3 Pediatric Asthma MUPPITS 1 Modules, Voom, and Design Data Package
+Version: 0.0.1
+Date: 2019-01-22
+Author: Scott R Presnell <SPresnell@benaroyaresearch.org>
+Maintainer: Scott R Presnell <SPresnell@benaroyaresearch.org>
+Authors@R: person("Scott", "Presnell", email = "SPresnell@benaroyaresearch.org", role = c("aut", "cre"))
+Description: This package contains MUPPITS1 Modules, voom, and design files.
+Depends: R (>= 3.4)
+License: file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+Imports:
+  limma
